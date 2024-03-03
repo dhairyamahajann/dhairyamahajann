@@ -12,8 +12,7 @@ Ever since a young age, I have been drawn towards puzzles and solving problems, 
 * 🤝  I'm open to collaborating on projects related to Web Development or Data Analytics
 * ⚡  I am always up for a discussion about Formula One, Sneakers, Numismatics, The Book Thief by Markus Zusak, Street Art, Conceptual Art or Minimalism.
 
-<a href="https://www.github.com/dhairyamahajann" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dhairyamahajann?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/DhairyaMahajann" target="_blank" rel="noreferrer"><img
+<a href="https://www.x.com/DhairyaMahajann" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DhairyaMahajann?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
