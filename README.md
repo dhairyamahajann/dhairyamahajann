@@ -16,6 +16,10 @@ Ever since a young age, I have been drawn towards puzzles and solving problems, 
 src="https://img.shields.io/twitter/follow/DhairyaMahajann?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+<a href="https://twitter.com/DhairyaMahajann" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/DhairyaMahajann?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow Badge"/>
+</a>
+
 ### Skills
 
 
